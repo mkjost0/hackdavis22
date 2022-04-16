@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "hackdavis22",
+    "slug": "hackdavis22",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "hackdavis22"
+}
